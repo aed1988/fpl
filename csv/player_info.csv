@@ -1,0 +1,578 @@
+,web_name,first_name,second_name,photo,team_code,element_type,short_name,name,singular_name,singular_name_short
+0,Leno,Bernd,Leno,80201.jpg,3,1,ARS,Arsenal,Goalkeeper,GKP
+1,Rúnarsson,Rúnar Alex,Rúnarsson,115918.jpg,3,1,ARS,Arsenal,Goalkeeper,GKP
+2,Willian,Willian,Borges Da Silva,47431.jpg,3,3,ARS,Arsenal,Midfielder,MID
+3,Aubameyang,Pierre-Emerick,Aubameyang,54694.jpg,3,4,ARS,Arsenal,Forward,FWD
+4,Cédric,Cédric,Soares,58822.jpg,3,2,ARS,Arsenal,Defender,DEF
+5,Lacazette,Alexandre,Lacazette,59966.jpg,3,4,ARS,Arsenal,Forward,FWD
+6,Xhaka,Granit,Xhaka,84450.jpg,3,3,ARS,Arsenal,Midfielder,MID
+7,Marí,Pablo,Marí,92371.jpg,3,2,ARS,Arsenal,Defender,DEF
+8,Bellerín,Héctor,Bellerín,98745.jpg,3,2,ARS,Arsenal,Defender,DEF
+9,Chambers,Calum,Chambers,101184.jpg,3,2,ARS,Arsenal,Defender,DEF
+10,Kolasinac,Sead,Kolasinac,111457.jpg,3,2,ARS,Arsenal,Defender,DEF
+11,Elneny,Mohamed Naser,El Sayed Elneny,153256.jpg,3,3,ARS,Arsenal,Midfielder,MID
+12,Maitland-Niles,Ainsley,Maitland-Niles,154043.jpg,3,3,ARS,Arsenal,Midfielder,MID
+13,Holding,Rob,Holding,156074.jpg,3,2,ARS,Arsenal,Defender,DEF
+14,Partey,Thomas,Partey,167199.jpg,3,3,ARS,Arsenal,Midfielder,MID
+15,Tierney,Kieran,Tierney,192895.jpg,3,2,ARS,Arsenal,Defender,DEF
+16,Pépé,Nicolas,Pépé,195735.jpg,3,3,ARS,Arsenal,Midfielder,MID
+17,Torreira,Lucas,Torreira,198849.jpg,3,3,ARS,Arsenal,Midfielder,MID
+18,Nketiah,Edward,Nketiah,205533.jpg,3,4,ARS,Arsenal,Forward,FWD
+19,Smith Rowe,Emile,Smith Rowe,209289.jpg,3,3,ARS,Arsenal,Midfielder,MID
+20,Saka,Bukayo,Saka,223340.jpg,3,3,ARS,Arsenal,Midfielder,MID
+21,Gabriel,Gabriel,Magalhães,226597.jpg,3,2,ARS,Arsenal,Defender,DEF
+22,Mavropanos,Konstantinos,Mavropanos,233963.jpg,3,2,ARS,Arsenal,Defender,DEF
+23,Guendouzi,Mattéo,Guendouzi,242166.jpg,3,3,ARS,Arsenal,Midfielder,MID
+24,Martinelli,Gabriel Teodoro,Martinelli Silva,444145.jpg,3,3,ARS,Arsenal,Midfielder,MID
+25,Saliba,William,Saliba,462424.jpg,3,2,ARS,Arsenal,Defender,DEF
+26,White,Ben,White,198869.jpg,3,2,ARS,Arsenal,Defender,DEF
+27,Tavares,Nuno,Varela Tavares,437626.jpg,3,2,ARS,Arsenal,Defender,DEF
+28,Sambi Lokonga,Albert,Sambi Lokonga,437742.jpg,3,3,ARS,Arsenal,Midfielder,MID
+29,Balogun,Folarin,Balogun,232223.jpg,3,4,ARS,Arsenal,Forward,FWD
+30,Nelson,Reiss,Nelson,200641.jpg,3,3,ARS,Arsenal,Midfielder,MID
+31,Hein,Karl,Hein,463748.jpg,3,1,ARS,Arsenal,Goalkeeper,GKP
+32,Ødegaard,Martin,Ødegaard,184029.jpg,3,3,ARS,Arsenal,Midfielder,MID
+33,Ramsdale,Aaron,Ramsdale,225321.jpg,3,1,ARS,Arsenal,Goalkeeper,GKP
+34,Okonkwo,Arthur,Okonkwo,220682.jpg,3,1,ARS,Arsenal,Goalkeeper,GKP
+35,Steer,Jed,Steer,79852.jpg,7,1,AVL,Aston Villa,Goalkeeper,GKP
+36,Hourihane,Conor,Hourihane,85242.jpg,7,3,AVL,Aston Villa,Midfielder,MID
+37,Martínez,Emiliano,Martínez,98980.jpg,7,1,AVL,Aston Villa,Goalkeeper,GKP
+38,Engels,Björn,Engels,108156.jpg,7,2,AVL,Aston Villa,Defender,DEF
+39,Traoré,Bertrand,Traoré,110504.jpg,7,3,AVL,Aston Villa,Midfielder,MID
+40,Sanson,Morgan,Sanson,122775.jpg,7,3,AVL,Aston Villa,Midfielder,MID
+41,McGinn,John,McGinn,122806.jpg,7,3,AVL,Aston Villa,Midfielder,MID
+42,Hause,Kortney,Hause,123354.jpg,7,2,AVL,Aston Villa,Defender,DEF
+43,Trézéguet,Mahmoud Ahmed,Ibrahim Hassan,148508.jpg,7,3,AVL,Aston Villa,Midfielder,MID
+44,Mings,Tyrone,Mings,149484.jpg,7,2,AVL,Aston Villa,Defender,DEF
+45,Targett,Matt,Targett,169359.jpg,7,2,AVL,Aston Villa,Defender,DEF
+46,Watkins,Ollie,Watkins,178301.jpg,7,4,AVL,Aston Villa,Forward,FWD
+47,Nakamba,Marvelous,Nakamba,184704.jpg,7,3,AVL,Aston Villa,Midfielder,MID
+48,El Ghazi,Anwar,El Ghazi,193488.jpg,7,3,AVL,Aston Villa,Midfielder,MID
+49,Buendía,Emiliano,Buendía Stati,195546.jpg,7,3,AVL,Aston Villa,Midfielder,MID
+50,Cash,Matthew,Cash,199796.jpg,7,2,AVL,Aston Villa,Defender,DEF
+51,Konsa,Ezri,Konsa Ngoyo,199798.jpg,7,2,AVL,Aston Villa,Defender,DEF
+52,Guilbert,Frédéric,Guilbert,203368.jpg,7,2,AVL,Aston Villa,Defender,DEF
+53,Wesley,Wesley,Moraes,213345.jpg,7,4,AVL,Aston Villa,Forward,FWD
+54,Samatta,Mbwana Ally,Samatta,217487.jpg,7,4,AVL,Aston Villa,Forward,FWD
+55,Davis,Keinan,Davis,221239.jpg,7,4,AVL,Aston Villa,Forward,FWD
+56,Douglas Luiz,Douglas Luiz,Soares de Paulo,230046.jpg,7,3,AVL,Aston Villa,Midfielder,MID
+57,Ramsey,Jacob,Ramsey,232653.jpg,7,3,AVL,Aston Villa,Midfielder,MID
+58,Young,Ashley,Young,18892.jpg,7,2,AVL,Aston Villa,Defender,DEF
+59,Tuanzebe,Axel,Tuanzebe,180804.jpg,7,2,AVL,Aston Villa,Defender,DEF
+60,Ings,Danny,Ings,84939.jpg,7,4,AVL,Aston Villa,Forward,FWD
+61,Bailey,Leon,Bailey,215711.jpg,7,3,AVL,Aston Villa,Midfielder,MID
+62,Ramsey,Aaron,Ramsey,447715.jpg,7,3,AVL,Aston Villa,Midfielder,MID
+63,Philogene-Bidace,Jaden,Philogene-Bidace,481624.jpg,7,3,AVL,Aston Villa,Midfielder,MID
+64,Chukwuemeka,Carney,Chukwuemeka,478912.jpg,7,3,AVL,Aston Villa,Midfielder,MID
+65,Archer,Cameron,Archer,433979.jpg,7,4,AVL,Aston Villa,Forward,FWD
+66,Jansson,Pontus,Jansson,61810.jpg,94,2,BRE,Brentford,Defender,DEF
+67,Nørgaard,Christian,Nørgaard,128295.jpg,94,3,BRE,Brentford,Midfielder,MID
+68,Toney,Ivan,Toney,144485.jpg,94,4,BRE,Brentford,Forward,FWD
+69,Fosu,Tariqe,Fosu-Henry,154138.jpg,94,3,BRE,Brentford,Midfielder,MID
+70,Raya,David,Raya Martin,154561.jpg,94,1,BRE,Brentford,Goalkeeper,GKP
+71,Canós,Sergi,Canós,174932.jpg,94,3,BRE,Brentford,Midfielder,MID
+72,Dasilva,Pelenda Joshua,Dasilva,183656.jpg,94,3,BRE,Brentford,Midfielder,MID
+73,Henry,Rico,Henry,194010.jpg,94,2,BRE,Brentford,Defender,DEF
+74,Janelt,Vitaly,Janelt,204580.jpg,94,3,BRE,Brentford,Midfielder,MID
+75,Ghoddos,Saman,Ghoddos,205836.jpg,94,3,BRE,Brentford,Midfielder,MID
+76,Jensen,Mathias,Jensen,207283.jpg,94,3,BRE,Brentford,Midfielder,MID
+77,Goode,Charlie,Goode,213687.jpg,94,2,BRE,Brentford,Defender,DEF
+78,Forss,Marcus,Forss,216620.jpg,94,4,BRE,Brentford,Forward,FWD
+79,Roerslev,Mads,Roerslev Rasmussen,226956.jpg,94,2,BRE,Brentford,Defender,DEF
+80,Sørensen,Mads,Bech Sørensen,228044.jpg,94,2,BRE,Brentford,Defender,DEF
+81,Pinnock,Ethan,Pinnock,231065.jpg,94,2,BRE,Brentford,Defender,DEF
+82,Balcombe,Ellery,Balcombe,235448.jpg,94,1,BRE,Brentford,Goalkeeper,GKP
+83,Zamburek,Jan,Zamburek,420922.jpg,94,3,BRE,Brentford,Midfielder,MID
+84,Gunnarsson,Patrik,Gunnarsson,434024.jpg,94,1,BRE,Brentford,Goalkeeper,GKP
+85,Dervişoğlu,Halil,Dervişoğlu,434662.jpg,94,4,BRE,Brentford,Forward,FWD
+86,Mbeumo,Bryan,Mbeumo,446008.jpg,94,3,BRE,Brentford,Midfielder,MID
+87,Bidstrup,Mads,Bidstrup,481405.jpg,94,3,BRE,Brentford,Midfielder,MID
+88,Onyeka,Frank,Onyeka,428580.jpg,94,3,BRE,Brentford,Midfielder,MID
+89,Ajer,Kristoffer,Ajer,191866.jpg,94,2,BRE,Brentford,Defender,DEF
+90,Thompson,Dominic,Thompson,232247.jpg,94,2,BRE,Brentford,Defender,DEF
+91,Baptiste,Shandon,Baptiste,432160.jpg,94,3,BRE,Brentford,Midfielder,MID
+92,Wissa,Yoane,Wissa,216646.jpg,94,3,BRE,Brentford,Midfielder,MID
+93,Fernández,Álvaro,Fernández,240796.jpg,94,1,BRE,Brentford,Goalkeeper,GKP
+94,Stevens,Finley,Stevens,450550.jpg,94,2,BRE,Brentford,Defender,DEF
+95,Lallana,Adam,Lallana,39155.jpg,36,3,BHA,Brighton,Midfielder,MID
+96,Steele,Jason,Steele,49262.jpg,36,1,BHA,Brighton,Goalkeeper,GKP
+97,Groß,Pascal,Groß,60307.jpg,36,3,BHA,Brighton,Midfielder,MID
+98,Duffy,Shane,Duffy,61933.jpg,36,2,BHA,Brighton,Defender,DEF
+99,Pröpper,Davy,Pröpper,66242.jpg,36,3,BHA,Brighton,Midfielder,MID
+100,Burn,Dan,Burn,78916.jpg,36,2,BHA,Brighton,Defender,DEF
+101,Dunk,Lewis,Dunk,83299.jpg,36,2,BHA,Brighton,Defender,DEF
+102,March,Solomon,March,109345.jpg,36,3,BHA,Brighton,Midfielder,MID
+103,Webster,Adam,Webster,110735.jpg,36,2,BHA,Brighton,Defender,DEF
+104,Veltman,Joël,Veltman,111478.jpg,36,2,BHA,Brighton,Defender,DEF
+105,Maupay,Neal,Maupay,115382.jpg,36,4,BHA,Brighton,Forward,FWD
+106,Trossard,Leandro,Trossard,116216.jpg,36,3,BHA,Brighton,Midfielder,MID
+107,Ryan,Mathew,Ryan,131897.jpg,36,1,BHA,Brighton,Goalkeeper,GKP
+108,Jahanbakhsh,Alireza,Jahanbakhsh,165210.jpg,36,3,BHA,Brighton,Midfielder,MID
+109,Bernardo,Bernardo,Fernandes Da Silva Junior,209362.jpg,36,2,BHA,Brighton,Defender,DEF
+110,Sánchez,Robert,Sánchez,215059.jpg,36,1,BHA,Brighton,Goalkeeper,GKP
+111,Bissouma,Yves,Bissouma,227127.jpg,36,3,BHA,Brighton,Midfielder,MID
+112,Lamptey,Tariq,Lamptey,232792.jpg,36,2,BHA,Brighton,Defender,DEF
+113,Connolly,Aaron,Connolly,233425.jpg,36,4,BHA,Brighton,Forward,FWD
+114,Alzate,Steven,Alzate,235382.jpg,36,3,BHA,Brighton,Midfielder,MID
+115,Mac Allister,Alexis,Mac Allister,243016.jpg,36,3,BHA,Brighton,Midfielder,MID
+116,Moder,Jakub,Moder,243505.jpg,36,3,BHA,Brighton,Midfielder,MID
+117,Welbeck,Danny,Welbeck,50175.jpg,36,4,BHA,Brighton,Forward,FWD
+118,Mwepu,Enock,Mwepu,423649.jpg,36,3,BHA,Brighton,Midfielder,MID
+119,Scherpen,Kjell,Scherpen,240514.jpg,36,1,BHA,Brighton,Goalkeeper,GKP
+120,Andone,Florin,Andone,93284.jpg,36,4,BHA,Brighton,Forward,FWD
+121,Zeqiri,Andi,Zeqiri,204676.jpg,36,4,BHA,Brighton,Forward,FWD
+122,Karbownik,Michal,Karbownik,442229.jpg,36,2,BHA,Brighton,Defender,DEF
+123,Richards,Taylor,Richards,209045.jpg,36,3,BHA,Brighton,Midfielder,MID
+124,Caicedo,Moisés,Caicedo,486672.jpg,36,3,BHA,Brighton,Midfielder,MID
+125,Roberts,Haydon,Roberts,433589.jpg,36,2,BHA,Brighton,Defender,DEF
+126,Tarkowski,James,Tarkowski,17761.jpg,90,2,BUR,Burnley,Defender,DEF
+127,Bardsley,Phil,Bardsley,17997.jpg,90,2,BUR,Burnley,Defender,DEF
+128,Pieters,Erik,Pieters,39487.jpg,90,2,BUR,Burnley,Defender,DEF
+129,Cork,Jack,Cork,40145.jpg,90,3,BUR,Burnley,Midfielder,MID
+130,Stephens,Dale,Stephens,40845.jpg,90,3,BUR,Burnley,Midfielder,MID
+131,Long,Kevin,Long,41674.jpg,90,2,BUR,Burnley,Defender,DEF
+132,Rodriguez,Jay,Rodriguez,44683.jpg,90,4,BUR,Burnley,Forward,FWD
+133,Barnes,Ashley,Barnes,44699.jpg,90,4,BUR,Burnley,Forward,FWD
+134,Mee,Ben,Mee,51927.jpg,90,2,BUR,Burnley,Defender,DEF
+135,Westwood,Ashley,Westwood,60551.jpg,90,3,BUR,Burnley,Midfielder,MID
+136,Gudmundsson,Johann Berg,Gudmundsson,60586.jpg,90,3,BUR,Burnley,Midfielder,MID
+137,Wood,Chris,Wood,60689.jpg,90,4,BUR,Burnley,Forward,FWD
+138,Lowton,Matthew,Lowton,68983.jpg,90,2,BUR,Burnley,Defender,DEF
+139,Vydra,Matej,Vydra,81183.jpg,90,4,BUR,Burnley,Forward,FWD
+140,Pope,Nick,Pope,98747.jpg,90,1,BUR,Burnley,Goalkeeper,GKP
+141,Taylor,Charlie,Taylor,103914.jpg,90,2,BUR,Burnley,Defender,DEF
+142,Norris,Will,Norris,168399.jpg,90,1,BUR,Burnley,Goalkeeper,GKP
+143,Brownhill,Josh,Brownhill,172782.jpg,90,3,BUR,Burnley,Midfielder,MID
+144,Benson,Josh,Benson,217401.jpg,90,3,BUR,Burnley,Midfielder,MID
+145,Peacock-Farrell,Bailey,Peacock-Farrell,220037.jpg,90,1,BUR,Burnley,Goalkeeper,GKP
+146,McNeil,Dwight,McNeil,433154.jpg,90,3,BUR,Burnley,Midfielder,MID
+147,Collins,Nathan,Collins,432830.jpg,90,2,BUR,Burnley,Defender,DEF
+148,Hennessey,Wayne,Hennessey,20066.jpg,90,1,BUR,Burnley,Goalkeeper,GKP
+149,Richardson,Lewis,Richardson,461096.jpg,90,4,BUR,Burnley,Forward,FWD
+150,Thomas,Bobby,Thomas,461102.jpg,90,2,BUR,Burnley,Defender,DEF
+151,Dodgson,Owen,Dodgson,461567.jpg,90,2,BUR,Burnley,Defender,DEF
+152,Lennon,Aaron,Lennon,17349.jpg,90,3,BUR,Burnley,Midfielder,MID
+153,Azpilicueta,César,Azpilicueta,41328.jpg,8,2,CHE,Chelsea,Defender,DEF
+154,Giroud,Olivier,Giroud,44346.jpg,8,4,CHE,Chelsea,Forward,FWD
+155,Thiago Silva,Thiago,Emiliano da Silva,51090.jpg,8,2,CHE,Chelsea,Defender,DEF
+156,Alonso,Marcos,Alonso,82263.jpg,8,2,CHE,Chelsea,Defender,DEF
+157,Jorginho,Jorge Luiz,Frello Filho,85955.jpg,8,3,CHE,Chelsea,Midfielder,MID
+158,Barkley,Ross,Barkley,88894.jpg,8,3,CHE,Chelsea,Midfielder,MID
+159,Kovacic,Mateo,Kovacic,91651.jpg,8,3,CHE,Chelsea,Midfielder,MID
+160,Batshuayi,Michy,Batshuayi,94245.jpg,8,4,CHE,Chelsea,Forward,FWD
+161,Rüdiger,Antonio,Rüdiger,102380.jpg,8,2,CHE,Chelsea,Defender,DEF
+162,Arrizabalaga,Kepa,Arrizabalaga,109745.jpg,8,1,CHE,Chelsea,Goalkeeper,GKP
+163,Kanté,N'Golo,Kanté,116594.jpg,8,3,CHE,Chelsea,Midfielder,MID
+164,Ziyech,Hakim,Ziyech,124183.jpg,8,3,CHE,Chelsea,Midfielder,MID
+165,Loftus-Cheek,Ruben,Loftus-Cheek,126187.jpg,8,3,CHE,Chelsea,Midfielder,MID
+166,Christensen,Andreas,Christensen,135363.jpg,8,2,CHE,Chelsea,Defender,DEF
+167,Werner,Timo,Werner,165153.jpg,8,4,CHE,Chelsea,Forward,FWD
+168,Chilwell,Benjamin,Chilwell,172850.jpg,8,2,CHE,Chelsea,Defender,DEF
+169,Abraham,Tammy,Abraham,173879.jpg,8,4,CHE,Chelsea,Forward,FWD
+170,Pulisic,Christian,Pulisic,176413.jpg,8,3,CHE,Chelsea,Midfielder,MID
+171,Mount,Mason,Mount,184341.jpg,8,3,CHE,Chelsea,Midfielder,MID
+172,Ampadu,Ethan,Ampadu,199598.jpg,8,2,CHE,Chelsea,Defender,DEF
+173,Hudson-Odoi,Callum,Hudson-Odoi,209046.jpg,8,3,CHE,Chelsea,Midfielder,MID
+174,Havertz,Kai,Havertz,219847.jpg,8,3,CHE,Chelsea,Midfielder,MID
+175,James,Reece,James,225796.jpg,8,2,CHE,Chelsea,Defender,DEF
+176,Mendy,Edouard,Mendy,228286.jpg,8,1,CHE,Chelsea,Goalkeeper,GKP
+177,Sarr,Malang,Sarr,204727.jpg,8,2,CHE,Chelsea,Defender,DEF
+178,Chalobah,Trevoh,Chalobah,180736.jpg,8,2,CHE,Chelsea,Defender,DEF
+179,Lukaku,Romelu,Lukaku,66749.jpg,8,4,CHE,Chelsea,Forward,FWD
+180,Emerson,Emerson,Palmieri dos Santos,109533.jpg,8,2,CHE,Chelsea,Defender,DEF
+181,Gallagher,Conor,Gallagher,232787.jpg,31,3,CRY,Crystal Palace,Midfielder,MID
+182,Guaita,Vicente,Guaita,40836.jpg,31,1,CRY,Crystal Palace,Goalkeeper,GKP
+183,Tomkins,James,Tomkins,49413.jpg,31,2,CRY,Crystal Palace,Defender,DEF
+184,McArthur,James,McArthur,50471.jpg,31,3,CRY,Crystal Palace,Midfielder,MID
+185,Benteke,Christian,Benteke,54861.jpg,31,4,CRY,Crystal Palace,Forward,FWD
+186,Kouyaté,Cheikhou,Kouyaté,55037.jpg,31,2,CRY,Crystal Palace,Defender,DEF
+187,Kelly,Martin,Kelly,58786.jpg,31,2,CRY,Crystal Palace,Defender,DEF
+188,Milivojevic,Luka,Milivojevic,66975.jpg,31,3,CRY,Crystal Palace,Midfielder,MID
+189,Ayew,Jordan,Ayew,80146.jpg,31,4,CRY,Crystal Palace,Forward,FWD
+190,Zaha,Wilfried,Zaha,82403.jpg,31,3,CRY,Crystal Palace,Midfielder,MID
+191,Schlupp,Jeffrey,Schlupp,86417.jpg,31,3,CRY,Crystal Palace,Midfielder,MID
+192,Butland,Jack,Butland,105666.jpg,31,1,CRY,Crystal Palace,Goalkeeper,GKP
+193,Riedewald,Jairo,Riedewald,173954.jpg,31,3,CRY,Crystal Palace,Midfielder,MID
+194,Jach,Jarosław,Jach,185478.jpg,31,2,CRY,Crystal Palace,Defender,DEF
+195,Mateta,Jean-Philippe,Mateta,231747.jpg,31,4,CRY,Crystal Palace,Forward,FWD
+196,Eze,Eberechi,Eze,232413.jpg,31,3,CRY,Crystal Palace,Midfielder,MID
+197,Ferguson,Nathan,Ferguson,232423.jpg,31,2,CRY,Crystal Palace,Defender,DEF
+198,Mitchell,Tyrick,Mitchell,244723.jpg,31,2,CRY,Crystal Palace,Defender,DEF
+199,Hughes,Will,Hughes,108413.jpg,31,3,CRY,Crystal Palace,Midfielder,MID
+200,Olise,Michael,Olise,443661.jpg,31,3,CRY,Crystal Palace,Midfielder,MID
+201,Ward,Joel,Ward,55494.jpg,31,2,CRY,Crystal Palace,Defender,DEF
+202,Guéhi,Marc,Guéhi,209036.jpg,31,2,CRY,Crystal Palace,Defender,DEF
+203,Andersen,Joachim,Andersen,174874.jpg,31,2,CRY,Crystal Palace,Defender,DEF
+204,Clyne,Nathaniel,Clyne,57328.jpg,31,2,CRY,Crystal Palace,Defender,DEF
+205,Hannam,Reece,Hannam,223824.jpg,31,2,CRY,Crystal Palace,Defender,DEF
+206,Rak-Sakyi,Jesurun,Rak-Sakyi,450542.jpg,31,3,CRY,Crystal Palace,Midfielder,MID
+207,Street,Robert,Street,448482.jpg,31,4,CRY,Crystal Palace,Forward,FWD
+208,Banks,Scott,Banks,462831.jpg,31,3,CRY,Crystal Palace,Midfielder,MID
+209,Matthews,Remi,Matthews,169593.jpg,31,1,CRY,Crystal Palace,Goalkeeper,GKP
+210,Delph,Fabian,Delph,41823.jpg,11,3,EVE,Everton,Midfielder,MID
+211,Sigurdsson,Gylfi,Sigurdsson,55422.jpg,11,3,EVE,Everton,Midfielder,MID
+212,Coleman,Seamus,Coleman,59949.jpg,11,2,EVE,Everton,Defender,DEF
+213,James,James,Rodríguez,60025.jpg,11,3,EVE,Everton,Midfielder,MID
+214,Bernard,Bernard,Anício Caldeira Duarte,100649.jpg,11,3,EVE,Everton,Midfielder,MID
+215,Digne,Lucas,Digne,101188.jpg,11,2,EVE,Everton,Defender,DEF
+216,Keane,Michael,Keane,106611.jpg,11,2,EVE,Everton,Defender,DEF
+217,Pickford,Jordan,Pickford,111234.jpg,11,1,EVE,Everton,Goalkeeper,GKP
+218,Allan,Allan,Marques Loureiro,119765.jpg,11,3,EVE,Everton,Midfielder,MID
+219,André Gomes,André Filipe,Tavares Gomes,120250.jpg,11,3,EVE,Everton,Midfielder,MID
+220,Doucouré,Abdoulaye,Doucouré,121599.jpg,11,3,EVE,Everton,Midfielder,MID
+221,Iwobi,Alex,Iwobi,153133.jpg,11,3,EVE,Everton,Midfielder,MID
+222,Mina,Yerry,Mina,164511.jpg,11,2,EVE,Everton,Defender,DEF
+223,Davies,Tom,Davies,173807.jpg,11,3,EVE,Everton,Midfielder,MID
+224,Calvert-Lewin,Dominic,Calvert-Lewin,177815.jpg,11,4,EVE,Everton,Forward,FWD
+225,Holgate,Mason,Holgate,194164.jpg,11,2,EVE,Everton,Defender,DEF
+226,Godfrey,Ben,Godfrey,198826.jpg,11,2,EVE,Everton,Defender,DEF
+227,Richarlison,Richarlison,de Andrade,212319.jpg,11,4,EVE,Everton,Forward,FWD
+228,Virgínia,João,Virgínia,222627.jpg,11,1,EVE,Everton,Goalkeeper,GKP
+229,Begović,Asmir,Begović,40349.jpg,11,1,EVE,Everton,Goalkeeper,GKP
+230,Townsend,Andros,Townsend,60252.jpg,11,3,EVE,Everton,Midfielder,MID
+231,Gray,Demarai,Gray,172632.jpg,11,3,EVE,Everton,Midfielder,MID
+232,Kenny,Jonjoe,Kenny,153673.jpg,11,2,EVE,Everton,Defender,DEF
+233,Gordon,Anthony,Gordon,232826.jpg,11,3,EVE,Everton,Midfielder,MID
+234,Gbamin,Jean-Philippe,Gbamin,160987.jpg,11,3,EVE,Everton,Midfielder,MID
+235,Branthwaite,Jarrad,Branthwaite,480455.jpg,11,2,EVE,Everton,Defender,DEF
+236,Broadhead,Nathan,Broadhead,173818.jpg,11,4,EVE,Everton,Forward,FWD
+237,Kean,Moise,Kean,242058.jpg,11,4,EVE,Everton,Forward,FWD
+238,Nkounkou,Niels,Nkounkou,495542.jpg,11,2,EVE,Everton,Defender,DEF
+239,Lonergan,Andy,Lonergan,11948.jpg,11,1,EVE,Everton,Goalkeeper,GKP
+240,Schmeichel,Kasper,Schmeichel,17745.jpg,13,1,LEI,Leicester,Goalkeeper,GKP
+241,Evans,Jonny,Evans,37642.jpg,13,2,LEI,Leicester,Defender,DEF
+242,Albrighton,Marc,Albrighton,51938.jpg,13,3,LEI,Leicester,Midfielder,MID
+243,Mendy,Nampalys,Mendy,86881.jpg,13,3,LEI,Leicester,Midfielder,MID
+244,Ward,Danny,Ward,95463.jpg,13,1,LEI,Leicester,Goalkeeper,GKP
+245,Vardy,Jamie,Vardy,101668.jpg,13,4,LEI,Leicester,Forward,FWD
+246,Praet,Dennis,Praet,106837.jpg,13,3,LEI,Leicester,Midfielder,MID
+247,Pereira,Ricardo Domingos,Barbosa Pereira,111931.jpg,13,2,LEI,Leicester,Defender,DEF
+248,Amartey,Daniel,Amartey,155569.jpg,13,2,LEI,Leicester,Defender,DEF
+249,Castagne,Timothy,Castagne,166477.jpg,13,2,LEI,Leicester,Defender,DEF
+250,Tielemans,Youri,Tielemans,166989.jpg,13,3,LEI,Leicester,Midfielder,MID
+251,Pérez,Ayoze,Pérez,168580.jpg,13,3,LEI,Leicester,Midfielder,MID
+252,Maddison,James,Maddison,172780.jpg,13,3,LEI,Leicester,Midfielder,MID
+253,Iheanacho,Kelechi,Iheanacho,173515.jpg,13,4,LEI,Leicester,Forward,FWD
+254,Choudhury,Hamza,Choudhury,197469.jpg,13,3,LEI,Leicester,Midfielder,MID
+255,Barnes,Harvey,Barnes,201666.jpg,13,3,LEI,Leicester,Midfielder,MID
+256,Ndidi,Wilfred,Ndidi,203341.jpg,13,3,LEI,Leicester,Midfielder,MID
+257,Söyüncü,Çaglar,Söyüncü,218031.jpg,13,2,LEI,Leicester,Defender,DEF
+258,Justin,James,Justin,220627.jpg,13,2,LEI,Leicester,Defender,DEF
+259,Thomas,Luke,Thomas,244619.jpg,13,2,LEI,Leicester,Defender,DEF
+260,Fofana,Wesley,Fofana,444463.jpg,13,2,LEI,Leicester,Defender,DEF
+261,Vestergaard,Jannik,Vestergaard,93100.jpg,13,2,LEI,Leicester,Defender,DEF
+262,Daka,Patson,Daka,245419.jpg,13,4,LEI,Leicester,Forward,FWD
+263,Soumaré,Boubakary,Soumaré,225902.jpg,13,3,LEI,Leicester,Midfielder,MID
+264,Bertrand,Ryan,Bertrand,40146.jpg,13,2,LEI,Leicester,Defender,DEF
+265,Dewsbury-Hall,Kiernan,Dewsbury-Hall,215413.jpg,13,3,LEI,Leicester,Midfielder,MID
+266,Jakupovic,Eldin,Jakupovic,11974.jpg,13,1,LEI,Leicester,Goalkeeper,GKP
+267,Hernández,Pablo,Hernández Domínguez,28690.jpg,2,3,LEE,Leeds,Midfielder,MID
+268,Casilla,Francisco,Casilla Cortés,39790.jpg,2,1,LEE,Leeds,Goalkeeper,GKP
+269,Cooper,Liam,Cooper,55914.jpg,2,2,LEE,Leeds,Defender,DEF
+270,Ayling,Luke,Ayling,66588.jpg,2,2,LEE,Leeds,Defender,DEF
+271,Klich,Mateusz,Klich,72222.jpg,2,3,LEE,Leeds,Midfielder,MID
+272,Rodrigo,Rodrigo,Moreno,80954.jpg,2,4,LEE,Leeds,Forward,FWD
+273,Dallas,Stuart,Dallas,87873.jpg,2,3,LEE,Leeds,Midfielder,MID
+274,Bamford,Patrick,Bamford,106617.jpg,2,4,LEE,Leeds,Forward,FWD
+275,Llorente,Diego,Llorente,149915.jpg,2,2,LEE,Leeds,Defender,DEF
+276,Phillips,Kalvin,Phillips,155405.jpg,2,3,LEE,Leeds,Midfielder,MID
+277,Costa,Hélder Wander,Sousa de Azevedo e Costa,165808.jpg,2,3,LEE,Leeds,Midfielder,MID
+278,Roberts,Tyler,Roberts,173821.jpg,2,3,LEE,Leeds,Midfielder,MID
+279,Koch,Robin,Koch,193645.jpg,2,2,LEE,Leeds,Defender,DEF
+280,Poveda,Ian Carlo,Poveda-Ocampo,215460.jpg,2,3,LEE,Leeds,Midfielder,MID
+281,Raphinha,Raphael,Dias Belloli,219961.jpg,2,3,LEE,Leeds,Midfielder,MID
+282,Shackleton,Jamie,Shackleton,221610.jpg,2,3,LEE,Leeds,Midfielder,MID
+283,Struijk,Pascal,Struijk,222694.jpg,2,2,LEE,Leeds,Defender,DEF
+284,Meslier,Illan,Meslier,437495.jpg,2,1,LEE,Leeds,Goalkeeper,GKP
+285,Harrison,Jack,Harrison,221399.jpg,2,3,LEE,Leeds,Midfielder,MID
+286,Firpo,Héctor Junior,Firpo Adames,443967.jpg,2,2,LEE,Leeds,Defender,DEF
+287,Klaesson,Kristoffer,Klaesson,223081.jpg,2,1,LEE,Leeds,Goalkeeper,GKP
+288,Greenwood,Sam,Greenwood,248937.jpg,2,4,LEE,Leeds,Forward,FWD
+289,Summerville,Crysencio,Summerville,450070.jpg,2,3,LEE,Leeds,Midfielder,MID
+290,Forshaw,Adam,Forshaw,80179.jpg,2,3,LEE,Leeds,Midfielder,MID
+291,Drameh,Cody,Drameh,433590.jpg,2,2,LEE,Leeds,Defender,DEF
+292,Cresswell,Charlie,Cresswell,492373.jpg,2,2,LEE,Leeds,Defender,DEF
+293,McCarron,Liam,McCarron,464618.jpg,2,3,LEE,Leeds,Midfielder,MID
+294,Gelhardt,Joe,Gelhardt,462635.jpg,2,4,LEE,Leeds,Forward,FWD
+295,Milner,James,Milner,15157.jpg,14,3,LIV,Liverpool,Midfielder,MID
+296,Henderson,Jordan,Henderson,56979.jpg,14,3,LIV,Liverpool,Midfielder,MID
+297,Adrián,Adrián,San Miguel del Castillo,60706.jpg,14,1,LIV,Liverpool,Goalkeeper,GKP
+298,Matip,Joel,Matip,60914.jpg,14,2,LIV,Liverpool,Defender,DEF
+299,Thiago,Thiago,Alcántara do Nascimento,61558.jpg,14,3,LIV,Liverpool,Midfielder,MID
+300,Shaqiri,Xherdan,Shaqiri,68312.jpg,14,3,LIV,Liverpool,Midfielder,MID
+301,Chamberlain,Alex,Oxlade-Chamberlain,81880.jpg,14,3,LIV,Liverpool,Midfielder,MID
+302,Firmino,Roberto,Firmino,92217.jpg,14,4,LIV,Liverpool,Forward,FWD
+303,van Dijk,Virgil,van Dijk,97032.jpg,14,2,LIV,Liverpool,Defender,DEF
+304,Mané,Sadio,Mané,110979.jpg,14,3,LIV,Liverpool,Midfielder,MID
+305,Alisson,Alisson,Ramses Becker,116535.jpg,14,1,LIV,Liverpool,Goalkeeper,GKP
+306,Fabinho,Fabio Henrique,Tavares,116643.jpg,14,3,LIV,Liverpool,Midfielder,MID
+307,Salah,Mohamed,Salah,118748.jpg,14,3,LIV,Liverpool,Midfielder,MID
+308,Robertson,Andrew,Robertson,122798.jpg,14,2,LIV,Liverpool,Defender,DEF
+309,Origi,Divock,Origi,152760.jpg,14,4,LIV,Liverpool,Forward,FWD
+310,Minamino,Takumi,Minamino,157882.jpg,14,3,LIV,Liverpool,Midfielder,MID
+311,Alexander-Arnold,Trent,Alexander-Arnold,169187.jpg,14,2,LIV,Liverpool,Defender,DEF
+312,Gomez,Joseph,Gomez,171287.jpg,14,2,LIV,Liverpool,Defender,DEF
+313,Keita,Naby,Keita,175592.jpg,14,3,LIV,Liverpool,Midfielder,MID
+314,Jota,Diogo,Jota,194634.jpg,14,3,LIV,Liverpool,Midfielder,MID
+315,Phillips,Nathaniel,Phillips,197464.jpg,14,2,LIV,Liverpool,Defender,DEF
+316,Kelleher,Caoimhin,Kelleher,200720.jpg,14,1,LIV,Liverpool,Goalkeeper,GKP
+317,Konaté,Ibrahima,Konaté,204716.jpg,14,2,LIV,Liverpool,Defender,DEF
+318,Jones,Curtis,Jones,206915.jpg,14,3,LIV,Liverpool,Midfielder,MID
+319,Tsimikas,Konstantinos,Tsimikas,214285.jpg,14,2,LIV,Liverpool,Defender,DEF
+320,N.Williams,Neco,Williams,215136.jpg,14,2,LIV,Liverpool,Defender,DEF
+321,R.Williams,Rhys,Williams,219937.jpg,14,2,LIV,Liverpool,Defender,DEF
+322,Davies,Ben,Davies,152898.jpg,14,2,LIV,Liverpool,Defender,DEF
+323,Elliott,Harvey,Elliott,444884.jpg,14,3,LIV,Liverpool,Midfielder,MID
+324,Woodburn,Ben,Woodburn,182436.jpg,14,3,LIV,Liverpool,Midfielder,MID
+325,Grealish,Jack,Grealish,114283.jpg,43,3,MCI,Man City,Midfielder,MID
+326,Walker,Kyle,Walker,58621.jpg,43,2,MCI,Man City,Defender,DEF
+327,Gündogan,Ilkay,Gündogan,59859.jpg,43,3,MCI,Man City,Midfielder,MID
+328,De Bruyne,Kevin,De Bruyne,61366.jpg,43,3,MCI,Man City,Midfielder,MID
+329,Stones,John,Stones,97299.jpg,43,2,MCI,Man City,Defender,DEF
+330,Mendy,Benjamin,Mendy,102826.jpg,43,2,MCI,Man City,Defender,DEF
+331,Mahrez,Riyad,Mahrez,103025.jpg,43,3,MCI,Man City,Midfielder,MID
+332,Sterling,Raheem,Sterling,103955.jpg,43,3,MCI,Man City,Midfielder,MID
+333,Cancelo,João Pedro Cavaco,Cancelo,121145.jpg,43,2,MCI,Man City,Defender,DEF
+334,Ederson,Ederson,Santana de Moraes,121160.jpg,43,1,MCI,Man City,Goalkeeper,GKP
+335,Aké,Nathan,Aké,126184.jpg,43,2,MCI,Man City,Defender,DEF
+336,Laporte,Aymeric,Laporte,146941.jpg,43,2,MCI,Man City,Defender,DEF
+337,Steffen,Zack,Steffen,164484.jpg,43,1,MCI,Man City,Goalkeeper,GKP
+338,Bernardo,Bernardo Mota,Veiga de Carvalho e Silva,165809.jpg,43,3,MCI,Man City,Midfielder,MID
+339,Dias,Rúben Santos,Gato Alves Dias,171314.jpg,43,2,MCI,Man City,Defender,DEF
+340,Jesus,Gabriel Fernando,de Jesus,205651.jpg,43,4,MCI,Man City,Forward,FWD
+341,Zinchenko,Oleksandr,Zinchenko,206325.jpg,43,2,MCI,Man City,Defender,DEF
+342,Foden,Phil,Foden,209244.jpg,43,3,MCI,Man City,Midfielder,MID
+343,Rodrigo,Rodrigo,Hernandez,220566.jpg,43,3,MCI,Man City,Midfielder,MID
+344,Torres,Ferran,Torres,224444.jpg,43,3,MCI,Man City,Midfielder,MID
+345,Fernandinho,Fernando,Luiz Rosa,27789.jpg,43,3,MCI,Man City,Midfielder,MID
+346,Palmer,Cole,Palmer,244851.jpg,43,3,MCI,Man City,Midfielder,MID
+347,Edozie,Samuel,Edozie,490503.jpg,43,3,MCI,Man City,Midfielder,MID
+348,Doyle,Tommy,Doyle,220394.jpg,43,3,MCI,Man City,Midfielder,MID
+349,Cavani,Edinson,Cavani,40720.jpg,1,4,MUN,Man Utd,Forward,FWD
+350,de Gea,David,de Gea,51940.jpg,1,1,MUN,Man Utd,Goalkeeper,GKP
+351,Matic,Nemanja,Matic,62398.jpg,1,3,MUN,Man Utd,Midfielder,MID
+352,Pogba,Paul,Pogba,74208.jpg,1,3,MUN,Man Utd,Midfielder,MID
+353,Maguire,Harry,Maguire,95658.jpg,1,2,MUN,Man Utd,Defender,DEF
+354,Fred,Frederico,Rodrigues de Paula Santos,101582.jpg,1,3,MUN,Man Utd,Midfielder,MID
+355,Shaw,Luke,Shaw,106760.jpg,1,2,MUN,Man Utd,Defender,DEF
+356,Lingard,Jesse,Lingard,109322.jpg,1,3,MUN,Man Utd,Midfielder,MID
+357,Fernandes,Bruno Miguel,Borges Fernandes,141746.jpg,1,3,MUN,Man Utd,Midfielder,MID
+358,Martial,Anthony,Martial,148225.jpg,1,4,MUN,Man Utd,Forward,FWD
+359,Telles,Alex Nicolao,Telles,152590.jpg,1,2,MUN,Man Utd,Defender,DEF
+360,Henderson,Dean,Henderson,172649.jpg,1,1,MUN,Man Utd,Goalkeeper,GKP
+361,Rashford,Marcus,Rashford,176297.jpg,1,3,MUN,Man Utd,Midfielder,MID
+362,van de Beek,Donny,van de Beek,180184.jpg,1,3,MUN,Man Utd,Midfielder,MID
+363,Lindelöf,Victor,Lindelöf,184667.jpg,1,2,MUN,Man Utd,Defender,DEF
+364,McTominay,Scott,McTominay,195851.jpg,1,3,MUN,Man Utd,Midfielder,MID
+365,Bailly,Eric,Bailly,197365.jpg,1,2,MUN,Man Utd,Defender,DEF
+366,James,Daniel,James,200617.jpg,1,3,MUN,Man Utd,Midfielder,MID
+367,Wan-Bissaka,Aaron,Wan-Bissaka,214590.jpg,1,2,MUN,Man Utd,Defender,DEF
+368,Greenwood,Mason,Greenwood,220688.jpg,1,3,MUN,Man Utd,Midfielder,MID
+369,Mata,Juan,Mata,43670.jpg,1,3,MUN,Man Utd,Midfielder,MID
+370,Sancho,Jadon,Sancho,209243.jpg,1,3,MUN,Man Utd,Midfielder,MID
+371,Heaton,Tom,Heaton,21205.jpg,1,1,MUN,Man Utd,Goalkeeper,GKP
+372,Dalot,José Diogo,Dalot Teixeira,216051.jpg,1,2,MUN,Man Utd,Defender,DEF
+373,Pereira,Andreas,Pereira,156689.jpg,1,3,MUN,Man Utd,Midfielder,MID
+374,Elanga,Anthony,Elanga,449434.jpg,1,3,MUN,Man Utd,Midfielder,MID
+375,Varane,Raphaël,Varane,90152.jpg,1,2,MUN,Man Utd,Defender,DEF
+376,Willock,Joseph,Willock,200089.jpg,4,3,NEW,Newcastle,Midfielder,MID
+377,Shelvey,Jonjo,Shelvey,50232.jpg,4,3,NEW,Newcastle,Midfielder,MID
+378,Ritchie,Matt,Ritchie,56983.jpg,4,2,NEW,Newcastle,Defender,DEF
+379,Clark,Ciaran,Clark,58845.jpg,4,2,NEW,Newcastle,Defender,DEF
+380,Darlow,Karl,Darlow,59735.jpg,4,1,NEW,Newcastle,Goalkeeper,GKP
+381,Dubravka,Martin,Dubravka,67089.jpg,4,1,NEW,Newcastle,Goalkeeper,GKP
+382,Wilson,Callum,Wilson,75115.jpg,4,4,NEW,Newcastle,Forward,FWD
+383,Hendrick,Jeff,Hendrick,83314.jpg,4,3,NEW,Newcastle,Midfielder,MID
+384,Fraser,Ryan,Fraser,90105.jpg,4,3,NEW,Newcastle,Midfielder,MID
+385,Lascelles,Jamaal,Lascelles,101148.jpg,4,2,NEW,Newcastle,Defender,DEF
+386,Gayle,Dwight,Gayle,104547.jpg,4,4,NEW,Newcastle,Forward,FWD
+387,Dummett,Paul,Dummett,106618.jpg,4,2,NEW,Newcastle,Defender,DEF
+388,Manquillo,Javier,Manquillo,109528.jpg,4,2,NEW,Newcastle,Defender,DEF
+389,Krafth,Emil,Krafth,111773.jpg,4,2,NEW,Newcastle,Defender,DEF
+390,Murphy,Jacob,Murphy,114243.jpg,4,3,NEW,Newcastle,Midfielder,MID
+391,Schär,Fabian,Schär,119471.jpg,4,2,NEW,Newcastle,Defender,DEF
+392,Hayden,Isaac,Hayden,153127.jpg,4,3,NEW,Newcastle,Midfielder,MID
+393,Saint-Maximin,Allan,Saint-Maximin,170137.jpg,4,4,NEW,Newcastle,Forward,FWD
+394,Almirón,Miguel,Almirón,179018.jpg,4,3,NEW,Newcastle,Midfielder,MID
+395,S.Longstaff,Sean,Longstaff,180135.jpg,4,3,NEW,Newcastle,Midfielder,MID
+396,Joelinton,Joelinton Cássio,Apolinário de Lira,180974.jpg,4,4,NEW,Newcastle,Forward,FWD
+397,Lewis,Jamal,Lewis,194799.jpg,4,2,NEW,Newcastle,Defender,DEF
+398,M.Longstaff,Matthew,Longstaff,223175.jpg,4,3,NEW,Newcastle,Midfielder,MID
+399,Fernández,Federico,Fernández,57145.jpg,4,2,NEW,Newcastle,Defender,DEF
+400,Woodman,Freddie,Woodman,155503.jpg,4,1,NEW,Newcastle,Goalkeeper,GKP
+401,Gillespie,Mark,Gillespie,81441.jpg,4,1,NEW,Newcastle,Goalkeeper,GKP
+402,Gilmour,Billy,Gilmour,243568.jpg,45,3,NOR,Norwich,Midfielder,MID
+403,Williams,Brandon,Williams,232937.jpg,45,2,NOR,Norwich,Defender,DEF
+404,McGovern,Michael,McGovern,18499.jpg,45,1,NOR,Norwich,Goalkeeper,GKP
+405,Krul,Tim,Krul,20480.jpg,45,1,NOR,Norwich,Goalkeeper,GKP
+406,Pukki,Teemu,Pukki,57127.jpg,45,4,NOR,Norwich,Forward,FWD
+407,Stiepermann,Marco,Stiepermann,71738.jpg,45,3,NOR,Norwich,Midfielder,MID
+408,Rupp,Lukas,Rupp,76306.jpg,45,3,NOR,Norwich,Midfielder,MID
+409,McLean,Kenny,McLean,78607.jpg,45,3,NOR,Norwich,Midfielder,MID
+410,Hanley,Grant,Hanley,83428.jpg,45,2,NOR,Norwich,Defender,DEF
+411,Hernández,Onel,Hernández,89470.jpg,45,3,NOR,Norwich,Midfielder,MID
+412,Byram,Sam,Byram,113564.jpg,45,2,NOR,Norwich,Defender,DEF
+413,Hugill,Jordan,Hugill,167522.jpg,45,4,NOR,Norwich,Forward,FWD
+414,Dowell,Kieran,Dowell,171270.jpg,45,3,NOR,Norwich,Midfielder,MID
+415,Zimmermann,Christoph,Zimmermann,192303.jpg,45,2,NOR,Norwich,Defender,DEF
+416,Cantwell,Todd,Cantwell,193111.jpg,45,3,NOR,Norwich,Midfielder,MID
+417,Aarons,Max,Aarons,232980.jpg,45,2,NOR,Norwich,Defender,DEF
+418,Sørensen,Jacob,Sørensen,235546.jpg,45,2,NOR,Norwich,Defender,DEF
+419,Placheta,Przemyslaw,Placheta,428626.jpg,45,3,NOR,Norwich,Midfielder,MID
+420,Idah,Adam,Idah,432735.jpg,45,4,NOR,Norwich,Forward,FWD
+421,Martin,Josh,Martin,439485.jpg,45,3,NOR,Norwich,Midfielder,MID
+422,Omobamidele,Andrew,Omobamidele,466404.jpg,45,2,NOR,Norwich,Defender,DEF
+423,Gunn,Angus,Gunn,107265.jpg,45,1,NOR,Norwich,Goalkeeper,GKP
+424,Rashica,Milot,Rashica,212723.jpg,45,3,NOR,Norwich,Midfielder,MID
+425,Gibson,Ben,Gibson,83312.jpg,45,2,NOR,Norwich,Defender,DEF
+426,Giannoulis,Dimitris,Giannoulis,189627.jpg,45,2,NOR,Norwich,Defender,DEF
+427,Lees-Melou,Pierre,Lees-Melou,212325.jpg,45,3,NOR,Norwich,Midfielder,MID
+428,Mumba,Bali,Mumba,220686.jpg,45,2,NOR,Norwich,Defender,DEF
+429,Sargent,Joshua,Sargent,215476.jpg,45,4,NOR,Norwich,Forward,FWD
+430,Tzolis,Christos,Tzolis,439509.jpg,45,3,NOR,Norwich,Midfielder,MID
+431,Walcott,Theo,Walcott,20467.jpg,20,3,SOU,Southampton,Midfielder,MID
+432,Forster,Fraser,Forster,40383.jpg,20,1,SOU,Southampton,Goalkeeper,GKP
+433,McCarthy,Alex,McCarthy,58376.jpg,20,1,SOU,Southampton,Goalkeeper,GKP
+434,Romeu,Oriol,Romeu Vidal,78056.jpg,20,3,SOU,Southampton,Midfielder,MID
+435,Redmond,Nathan,Redmond,83283.jpg,20,3,SOU,Southampton,Midfielder,MID
+436,Stephens,Jack,Stephens,88900.jpg,20,2,SOU,Southampton,Defender,DEF
+437,S.Armstrong,Stuart,Armstrong,91047.jpg,20,3,SOU,Southampton,Midfielder,MID
+438,Ward-Prowse,James,Ward-Prowse,101178.jpg,20,3,SOU,Southampton,Midfielder,MID
+439,Walker-Peters,Kyle,Walker-Peters,158534.jpg,20,2,SOU,Southampton,Defender,DEF
+440,Bednarek,Jan,Bednarek,171771.jpg,20,2,SOU,Southampton,Defender,DEF
+441,Nlundulu,Daniel,N'Lundulu,200088.jpg,20,4,SOU,Southampton,Forward,FWD
+442,Adams,Che,Adams,200439.jpg,20,4,SOU,Southampton,Forward,FWD
+443,Tella,Nathan,Tella,203389.jpg,20,3,SOU,Southampton,Midfielder,MID
+444,Smallbone,William,Smallbone,214466.jpg,20,3,SOU,Southampton,Midfielder,MID
+445,Obafemi,Michael,Obafemi,220598.jpg,20,4,SOU,Southampton,Forward,FWD
+446,Diallo,Ibrahima,Diallo,240143.jpg,20,3,SOU,Southampton,Midfielder,MID
+447,Djenepo,Moussa,Djenepo,431131.jpg,20,3,SOU,Southampton,Midfielder,MID
+448,Salisu,Mohammed,Salisu,450527.jpg,20,2,SOU,Southampton,Defender,DEF
+449,Perraud,Romain,Perraud,244560.jpg,20,2,SOU,Southampton,Defender,DEF
+450,Livramento,Tino,Livramento,441191.jpg,20,2,SOU,Southampton,Defender,DEF
+451,Elyounoussi,Mohamed,Elyounoussi,96787.jpg,20,3,SOU,Southampton,Midfielder,MID
+452,Broja,Armando,Broja,440323.jpg,20,4,SOU,Southampton,Forward,FWD
+453,Long,Shane,Long,20452.jpg,20,4,SOU,Southampton,Forward,FWD
+454,A.Armstrong,Adam,Armstrong,155511.jpg,20,4,SOU,Southampton,Forward,FWD
+455,Valery,Yan,Valery,213482.jpg,20,2,SOU,Southampton,Defender,DEF
+456,Lyanco,Lyanco Evangelista,Silveira Neves Vojnovic,212721.jpg,20,2,SOU,Southampton,Defender,DEF
+457,Hart,Joe,Hart,15749.jpg,6,1,TOT,Spurs,Goalkeeper,GKP
+458,Lloris,Hugo,Lloris,37915.jpg,6,1,TOT,Spurs,Goalkeeper,GKP
+459,Alderweireld,Toby,Alderweireld,55605.jpg,6,2,TOT,Spurs,Defender,DEF
+460,Lamela,Erik,Lamela,62974.jpg,6,3,TOT,Spurs,Midfielder,MID
+461,Kane,Harry,Kane,78830.jpg,6,4,TOT,Spurs,Forward,FWD
+462,Aurier,Serge,Aurier,80226.jpg,6,2,TOT,Spurs,Defender,DEF
+463,Son,Heung-Min,Son,85971.jpg,6,3,TOT,Spurs,Midfielder,MID
+464,Doherty,Matt,Doherty,87835.jpg,6,2,TOT,Spurs,Defender,DEF
+465,Dier,Eric,Dier,93264.jpg,6,2,TOT,Spurs,Defender,DEF
+466,Lucas Moura,Lucas,Rodrigues Moura da Silva,95715.jpg,6,3,TOT,Spurs,Midfielder,MID
+467,Dele,Bamidele,Alli,108823.jpg,6,3,TOT,Spurs,Midfielder,MID
+468,Davies,Ben,Davies,115556.jpg,6,2,TOT,Spurs,Defender,DEF
+469,Højbjerg,Pierre-Emile,Højbjerg,132015.jpg,6,3,TOT,Spurs,Midfielder,MID
+470,Winks,Harry,Winks,157668.jpg,6,3,TOT,Spurs,Midfielder,MID
+471,Sánchez,Davinson,Sánchez,173904.jpg,6,2,TOT,Spurs,Defender,DEF
+472,Sessegnon,Ryan,Sessegnon,184349.jpg,6,2,TOT,Spurs,Defender,DEF
+473,Bergwijn,Steven,Bergwijn,194252.jpg,6,3,TOT,Spurs,Midfielder,MID
+474,Reguilón,Sergio,Reguilón,199249.jpg,6,2,TOT,Spurs,Defender,DEF
+475,Tanganga,Japhet,Tanganga,199584.jpg,6,2,TOT,Spurs,Defender,DEF
+476,Lo Celso,Giovani,Lo Celso,200826.jpg,6,3,TOT,Spurs,Midfielder,MID
+477,Skipp,Oliver,Skipp,209042.jpg,6,3,TOT,Spurs,Midfielder,MID
+478,Rodon,Joe,Rodon,214225.jpg,6,2,TOT,Spurs,Defender,DEF
+479,Ndombele,Tanguy,Ndombele,231372.jpg,6,3,TOT,Spurs,Midfielder,MID
+480,Gollini,Pierluigi,Gollini,156683.jpg,6,1,TOT,Spurs,Goalkeeper,GKP
+481,Bryan,Bryan,Gil Salvatierra,436234.jpg,6,3,TOT,Spurs,Midfielder,MID
+482,Romero,Cristian,Romero,221632.jpg,6,2,TOT,Spurs,Defender,DEF
+483,Scarlett,Dane,Scarlett,490145.jpg,6,4,TOT,Spurs,Forward,FWD
+484,Sissoko,Moussa,Sissoko,45268.jpg,57,3,WAT,Watford,Midfielder,MID
+485,Foster,Ben,Foster,9089.jpg,57,1,WAT,Watford,Goalkeeper,GKP
+486,Rose,Danny,Rose,38290.jpg,57,2,WAT,Watford,Defender,DEF
+487,Gosling,Dan,Gosling,40387.jpg,57,3,WAT,Watford,Midfielder,MID
+488,Cathcart,Craig,Cathcart,41338.jpg,57,2,WAT,Watford,Defender,DEF
+489,Deeney,Troy,Deeney,41725.jpg,57,4,WAT,Watford,Forward,FWD
+490,Cleverley,Tom,Cleverley,43250.jpg,57,3,WAT,Watford,Midfielder,MID
+491,Femenía,Francisco,Femenía Far,54484.jpg,57,2,WAT,Watford,Defender,DEF
+492,Gray,Andre,Gray,73426.jpg,57,4,WAT,Watford,Forward,FWD
+493,Kabasele,Christian,Kabasele,85624.jpg,57,2,WAT,Watford,Defender,DEF
+494,Chalobah,Nathaniel,Chalobah,89085.jpg,57,3,WAT,Watford,Midfielder,MID
+495,Troost-Ekong,William,Troost-Ekong,131304.jpg,57,2,WAT,Watford,Defender,DEF
+496,Perica,Stipe,Perica,140941.jpg,57,4,WAT,Watford,Forward,FWD
+497,Bachmann,Daniel,Bachmann,154506.jpg,57,1,WAT,Watford,Goalkeeper,GKP
+498,Masina,Adam,Masina,155651.jpg,57,2,WAT,Watford,Defender,DEF
+499,Sema,Ken,Sema,157775.jpg,57,3,WAT,Watford,Midfielder,MID
+500,Zinckernagel,Philip,Zinckernagel,162344.jpg,57,3,WAT,Watford,Midfielder,MID
+501,Success,Isaac,Success Ajayi,173514.jpg,57,4,WAT,Watford,Forward,FWD
+502,Dele-Bashiru,Ayotomiwa,Dele-Bashiru,175353.jpg,57,3,WAT,Watford,Midfielder,MID
+503,Fletcher,Ashley,Fletcher,176296.jpg,57,4,WAT,Watford,Forward,FWD
+504,Sierralta,Francisco,Sierralta,208973.jpg,57,2,WAT,Watford,Defender,DEF
+505,Quina,Domingos,Quina,216058.jpg,57,3,WAT,Watford,Midfielder,MID
+506,Navarro,Marc,Navarro,220166.jpg,57,2,WAT,Watford,Defender,DEF
+507,Sarr,Ismaila,Sarr,232185.jpg,57,3,WAT,Watford,Midfielder,MID
+508,Ngakia,Jeremy,Ngakia,232391.jpg,57,2,WAT,Watford,Defender,DEF
+509,Wilmot,Ben,Wilmot,241289.jpg,57,2,WAT,Watford,Defender,DEF
+510,Hungbo,Joseph,Hungbo,244890.jpg,57,3,WAT,Watford,Midfielder,MID
+511,Louza,Imrân,Louza,471471.jpg,57,3,WAT,Watford,Midfielder,MID
+512,João Pedro,João Pedro,Junqueira de Jesus,475168.jpg,57,4,WAT,Watford,Forward,FWD
+513,Baah,Kwadwo,Baah,493934.jpg,57,3,WAT,Watford,Midfielder,MID
+514,Dennis,Emmanuel,Dennis,230251.jpg,57,4,WAT,Watford,Forward,FWD
+515,Pollock,Matthew,Pollock,467311.jpg,57,2,WAT,Watford,Defender,DEF
+516,Etebo,Oghenekaro Peter,Etebo,227560.jpg,57,3,WAT,Watford,Midfielder,MID
+517,King,Joshua,King,78007.jpg,57,4,WAT,Watford,Forward,FWD
+518,Mebude,Adedapo,Awokoya-Mebude,243569.jpg,57,4,WAT,Watford,Forward,FWD
+519,Cucho,Juan Camilo,Hernández Suárez,244716.jpg,57,4,WAT,Watford,Forward,FWD
+520,Kucka,Juraj,Kucka,69143.jpg,57,3,WAT,Watford,Midfielder,MID
+521,Tufan,Ozan,Tufan,130036.jpg,57,3,WAT,Watford,Midfielder,MID
+522,Elliot,Robert,Elliot,19838.jpg,57,1,WAT,Watford,Goalkeeper,GKP
+523,Zouma,Kurt,Zouma,103192.jpg,21,2,WHU,West Ham,Defender,DEF
+524,Noble,Mark,Noble,18073.jpg,21,3,WHU,West Ham,Midfielder,MID
+525,Randolph,Darren,Randolph,32259.jpg,21,1,WHU,West Ham,Goalkeeper,GKP
+526,Fabianski,Lukasz,Fabianski,37096.jpg,21,1,WHU,West Ham,Goalkeeper,GKP
+527,Ogbonna,Angelo,Ogbonna,40669.jpg,21,2,WHU,West Ham,Defender,DEF
+528,Reid,Winston,Reid,48717.jpg,21,2,WHU,West Ham,Defender,DEF
+529,Cresswell,Aaron,Cresswell,55459.jpg,21,2,WHU,West Ham,Defender,DEF
+530,Yarmolenko,Andriy,Yarmolenko,56377.jpg,21,3,WHU,West Ham,Midfielder,MID
+531,Antonio,Michail,Antonio,57531.jpg,21,4,WHU,West Ham,Forward,FWD
+532,Dawson,Craig,Dawson,60232.jpg,21,2,WHU,West Ham,Defender,DEF
+533,Fredericks,Ryan,Fredericks,81012.jpg,21,2,WHU,West Ham,Defender,DEF
+534,Lanzini,Manuel,Lanzini,86934.jpg,21,3,WHU,West Ham,Midfielder,MID
+535,Masuaku,Arthur,Masuaku,105717.jpg,21,2,WHU,West Ham,Defender,DEF
+536,Coufal,Vladimir,Coufal,164555.jpg,21,2,WHU,West Ham,Defender,DEF
+537,Benrahma,Saïd,Benrahma,172841.jpg,21,3,WHU,West Ham,Midfielder,MID
+538,Bowen,Jarrod,Bowen,178186.jpg,21,3,WHU,West Ham,Midfielder,MID
+539,Rice,Declan,Rice,204480.jpg,21,3,WHU,West Ham,Midfielder,MID
+540,Soucek,Tomas,Soucek,215439.jpg,21,3,WHU,West Ham,Midfielder,MID
+541,Fornals,Pablo,Fornals,217593.jpg,21,3,WHU,West Ham,Midfielder,MID
+542,Diop,Issa,Diop,219924.jpg,21,2,WHU,West Ham,Defender,DEF
+543,Johnson,Ben,Johnson,222018.jpg,21,2,WHU,West Ham,Defender,DEF
+544,Areola,Alphonse,Areola,84182.jpg,21,1,WHU,West Ham,Goalkeeper,GKP
+545,Alves,Frederik,Alves,486870.jpg,21,2,WHU,West Ham,Defender,DEF
+546,Coventry,Conor,Coventry,222017.jpg,21,3,WHU,West Ham,Midfielder,MID
+547,Baptiste,Jamal,Baptiste,462384.jpg,21,2,WHU,West Ham,Defender,DEF
+548,Moutinho,João Filipe Iria,Santos Moutinho,19624.jpg,39,3,WOL,Wolves,Midfielder,MID
+549,Patrício,Rui Pedro,dos Santos Patrício,38533.jpg,39,1,WOL,Wolves,Goalkeeper,GKP
+550,Boly,Willy,Boly,90585.jpg,39,2,WOL,Wolves,Defender,DEF
+551,Coady,Conor,Coady,94147.jpg,39,2,WOL,Wolves,Defender,DEF
+552,Jiménez,Raúl,Jiménez,102057.jpg,39,4,WOL,Wolves,Forward,FWD
+553,Saïss,Romain,Saïss,107613.jpg,39,2,WOL,Wolves,Defender,DEF
+554,Marçal,Fernando,Marçal,111291.jpg,39,2,WOL,Wolves,Defender,DEF
+555,Jonny,Jonathan,Castro Otto,114128.jpg,39,2,WOL,Wolves,Defender,DEF
+556,Dendoncker,Leander,Dendoncker,151589.jpg,39,3,WOL,Wolves,Midfielder,MID
+557,Traoré,Adama,Traoré,159533.jpg,39,3,WOL,Wolves,Midfielder,MID
+558,Neves,Rúben Diogo,da Silva Neves,171317.jpg,39,3,WOL,Wolves,Midfielder,MID
+559,Semedo,Nélson,Cabral Semedo,200402.jpg,39,2,WOL,Wolves,Defender,DEF
+560,Podence,Daniel,Castelo Podence,200600.jpg,39,3,WOL,Wolves,Midfielder,MID
+561,Kilman,Max,Kilman,214048.jpg,39,2,WOL,Wolves,Defender,DEF
+562,Gibbs-White,Morgan,Gibbs-White,222531.jpg,39,3,WOL,Wolves,Midfielder,MID
+563,Neto,Pedro,Lomba Neto,247632.jpg,39,3,WOL,Wolves,Midfielder,MID
+564,Otasowie,Owen,Otasowie,250604.jpg,39,3,WOL,Wolves,Midfielder,MID
+565,Hoever,Ki-Jana,Hoever,441271.jpg,39,2,WOL,Wolves,Defender,DEF
+566,Söndergaard,Andreas,Söndergaard,448487.jpg,39,1,WOL,Wolves,Goalkeeper,GKP
+567,Fabio Silva,Fabio,Silva,449988.jpg,39,4,WOL,Wolves,Forward,FWD
+568,Mosquera,Yerson,Mosquera Valdelamar,501837.jpg,39,2,WOL,Wolves,Defender,DEF
+569,Ruddy,John,Ruddy,19236.jpg,39,1,WOL,Wolves,Goalkeeper,GKP
+570,Trincão,Francisco,Machado Mota de Castro Trincão,222564.jpg,39,3,WOL,Wolves,Midfielder,MID
+571,Ait Nouri,Rayan,Ait Nouri,448514.jpg,39,2,WOL,Wolves,Defender,DEF
+572,Sá,José,Malheiro de Sá,149065.jpg,39,1,WOL,Wolves,Goalkeeper,GKP
+573,Cutrone,Patrick,Cutrone,209353.jpg,39,4,WOL,Wolves,Forward,FWD
+574,Cundle,Luke,Cundle,245923.jpg,39,3,WOL,Wolves,Midfielder,MID
+575,Campbell,Chem,Campbell,461026.jpg,39,3,WOL,Wolves,Midfielder,MID
+576,Marques,Christian,Marques,481626.jpg,39,2,WOL,Wolves,Defender,DEF
