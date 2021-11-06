@@ -1,12 +1,10 @@
-# %%
-def get_json_from_api(url):
+def get_json_from_api(url, headers=None, querystring=None):
   import requests
-  response = requests.get(url)
-  json = response.json()
 
+  response = requests.request("GET", url, headers=headers, params=querystring)
+  json = response.json()
   return json
 
-# %%
 def get_player_info():
   try:
     import pandas as pd
@@ -16,3 +14,5 @@ def get_player_info():
     json = get_json_from_api('https://fantasy.premierleague.com/api/bootstrap-static')
     elements_df = pd.DataFrame(json['elements'])
     elementtypes_df = pd.DataFrame(json['element_types'])
+
+

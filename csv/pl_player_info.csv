@@ -98,6 +98,8 @@ id,team,first_name,second_name,web_name,element_type,squad_number,photo
 556,3,Álvaro,Fernández,Fernández,1,,240796.jpg
 569,3,Finley,Stevens,Stevens,2,,450550.jpg
 594,3,Mathias,Jorgensen,Zanka,2,,48760.jpg
+614,3,Paris,Maghoma,Maghoma,3,,220695.jpg
+619,3,Matthew,Cox,Cox,1,,503300.jpg
 53,4,Adam,Lallana,Lallana,3,,39155.jpg
 54,4,Jason,Steele,Steele,1,,49262.jpg
 55,4,Pascal,Groß,Groß,3,,60307.jpg
@@ -255,6 +257,9 @@ id,team,first_name,second_name,web_name,element_type,squad_number,photo
 602,8,Ellis,Simms,Simms,4,,218997.jpg
 607,8,Lewis,Dobbin,Dobbin,4,,461421.jpg
 613,8,Charlie,Whitaker,Whitaker,3,,491556.jpg
+616,8,Harry,Tyrer,Tyrer,1,,447325.jpg
+622,8,Cenk,Tosun,Tosun,4,,66838.jpg
+623,8,Reece,Welch,Welch,2,,474907.jpg
 200,9,Kasper,Schmeichel,Schmeichel,1,,17745.jpg
 201,9,Jonny,Evans,Evans,2,,37642.jpg
 202,9,Marc,Albrighton,Albrighton,3,,51938.jpg
@@ -345,6 +350,7 @@ id,team,first_name,second_name,web_name,element_type,squad_number,photo
 248,11,Ben,Davies,Davies,2,,152898.jpg
 506,11,Harvey,Elliott,Elliott,3,,444884.jpg
 553,11,Ben,Woodburn,Woodburn,3,,182436.jpg
+620,11,Tyler,Morton,Morton,3,,440148.jpg
 33,12,Jack,Grealish,Grealish,3,,114283.jpg
 249,12,Kyle,Walker,Walker,2,,58621.jpg
 250,12,Ilkay,Gündogan,Gündogan,3,,59859.jpg
@@ -373,6 +379,7 @@ id,team,first_name,second_name,web_name,element_type,squad_number,photo
 603,12,Luke,Mbete,Mbete,2,,439510.jpg
 604,12,Joshua,Wilson-Esbrand,Wilson-Esbrand,2,,447880.jpg
 605,12,Romeo,Lavia,Lavia,3,,514356.jpg
+615,12,Cieran,Slicker,Slicker,1,,434044.jpg
 269,13,Edinson,Cavani,Cavani,4,,40720.jpg
 270,13,David,de Gea,de Gea,1,,51940.jpg
 271,13,Nemanja,Matic,Matic,3,,62398.jpg
@@ -554,6 +561,7 @@ id,team,first_name,second_name,web_name,element_type,squad_number,photo
 495,18,Juraj,Kucka,Kucka,3,,69143.jpg
 557,18,Ozan,Tufan,Tufan,3,,130036.jpg
 574,18,Robert,Elliot,Elliot,1,,19838.jpg
+618,18,Nicolas,Nkoulou,Nkoulou,2,,52775.jpg
 128,19,Kurt,Zouma,Zouma,2,,103192.jpg
 406,19,Mark,Noble,Noble,3,,18073.jpg
 407,19,Darren,Randolph,Randolph,1,,32259.jpg
@@ -581,6 +589,7 @@ id,team,first_name,second_name,web_name,element_type,squad_number,photo
 554,19,Jamal,Baptiste,Baptiste,2,,462384.jpg
 582,19,Nikola,Vlasic,Vlasic,3,,180151.jpg
 589,19,Alex,Kral,Kral,3,,195728.jpg
+617,19,Harrison,Ashby,Ashby,2,,441024.jpg
 426,20,João Filipe Iria,Santos Moutinho,Moutinho,3,,19624.jpg
 427,20,Rui Pedro,dos Santos Patrício,Patrício,1,,38533.jpg
 428,20,Willy,Boly,Boly,2,,90585.jpg
@@ -612,3 +621,4 @@ id,team,first_name,second_name,web_name,element_type,squad_number,photo
 549,20,Christian,Marques,Marques,2,,481626.jpg
 583,20,Hee-Chan,Hwang,Hwang,4,,184754.jpg
 611,20,Louie,Moulden,Moulden,1,,242510.jpg
+621,20,James,Storer,Storer,1,,518504.jpg
