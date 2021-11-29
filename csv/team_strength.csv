@@ -1,4 +1,4 @@
-id,strength,strength_overall_home,strength_attack_home,strength_defence_home,strength_overall_away,strength_attack_away,strength_defence_away
+fpl_team_id,strength,strength_overall_home,strength_attack_home,strength_defence_home,strength_overall_away,strength_attack_away,strength_defence_away
 1,4,1190,1110,1100,1220,1140,1170
 2,3,1130,1110,1130,1180,1120,1160
 3,3,1080,1130,1100,1100,1160,1150

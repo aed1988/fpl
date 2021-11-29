@@ -1,7 +1,7 @@
-def get_json_from_api(url, headers=None, querystring=None):
+def get_json_from_api(url, headers=None, querystring=None, cookies=None):
   import requests
 
-  response = requests.request("GET", url, headers=headers, params=querystring)
+  response = requests.request("GET", url, headers=headers, params=querystring, cookies=cookies)
   json = response.json()
   return json
 
