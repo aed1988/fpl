@@ -15,3 +15,4 @@
 
 [ X ] Update pl_player_info to include fpl_id and api_id
 [ X ] Update team_info to include fpl_team_id
+[ X ] Add definitions.py to store information instead of os.getenv and give an example

@@ -17,5 +17,5 @@ def get_json_from_fpl_api(url, login=True, headers=None, querystring=None, cooki
       # print(p.text)
 
     # An authorised request.
-    res = s.get('https://fantasy.premierleague.com/api/my-team/2563990/')
+    res = s.get(url)
     return res.json()
