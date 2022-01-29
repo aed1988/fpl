@@ -24,7 +24,7 @@ class Fixture():
   def __str__(self):
     home_team_fpl_id = convert_team_api_id_to_fpl_id(self._home_team_api_id)
     away_team_fpl_id = convert_team_api_id_to_fpl_id(self._away_team_api_id)
-    return f"{Team(home_team_fpl_id).get_team_name()} VS. {Team(away_team_fpl_id).get_team_name()}.  KO: {self._kickoff_time}"
+    return f"""{Team(home_team_fpl_id).get_team_name()} {f"VS." if pd.isna(self._home_team_score) else f"{self._home_team_score}:{self._away_team_score}"} {Team(away_team_fpl_id).get_team_name()}. KO: {self._kickoff_time}."""
 
   def populate_fixture_info(self) -> None:
     fixture_df = pd.read_csv(f"{CSV_DIR}/fixtures.csv", index_col = 'fixture_id')
@@ -55,6 +55,7 @@ class Fixture():
 
 
 
+
 class Team():
 
   def __init__(self, fpl_id: int):
@@ -75,7 +76,7 @@ class Team():
       self._venue_name = pd.read_csv(f"{CSV_DIR}/team_info.csv", index_col='fpl_team_id').loc[self.__id, 'venue_name']
     return self._venue_name
 
-  def next_fixtures(self, number):
+  def get_next_fixtures(self, number: int = 3):
     gameweek_df = pd.read_csv(f"{CSV_DIR}/gameweek.csv")
     gameweek_df = gameweek_df[gameweek_df['deadline_time_epoch'] > time.time()]
     next_gameweek_deadline = min(gameweek_df['deadline_time_epoch'])
@@ -90,6 +91,15 @@ class Team():
     for i in range(number):
       next_fixture_id = fixtures_df.iloc[i - 1].fixture_id
       print(Fixture(next_fixture_id))
+
+  def get_prev_fixtures(self, number: int = 3):
+    df = pd.read_csv(f"{CSV_DIR}/fixtures.csv", index_col='fixture_id')
+    df = df[df['home_score'] >= 0]
+    df = df[(df['api_home_team_id'] == self._api_id) | (df['api_away_team_id'] == self._api_id)].sort_values(by=['timestamp'], ascending=False)
+
+    for i in range(number):
+      prev_fixture_id = df.iloc[i].name
+      print(Fixture(prev_fixture_id))
 
 
 
