@@ -2,7 +2,7 @@ import os
 
 
 ROOT_DIR = os.path.dirname(os.path.abspath('__file__'))
-CSV_DIR = os.path.join(ROOT_DIR,'csv')
+PICKLE_DIR = os.path.join(ROOT_DIR,'csv')
 
 RAPID_API_KEY="rapid123api456key789"
 FPL_EMAIL="email@email.com"
