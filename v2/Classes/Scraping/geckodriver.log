@@ -1,0 +1,18 @@
+1709758376351	geckodriver	INFO	Listening on 127.0.0.1:49655
+1709758376507	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/2cpdbm7s5vv_h3qxrngnq1jc0000gn/T/rust_mozprofile16enFM"
+1709758543680	geckodriver	INFO	Listening on 127.0.0.1:49698
+1709758544873	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/2cpdbm7s5vv_h3qxrngnq1jc0000gn/T/rust_mozprofileZIdqZU"
+1709758652498	geckodriver	INFO	Listening on 127.0.0.1:49762
+1709758653535	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/2cpdbm7s5vv_h3qxrngnq1jc0000gn/T/rust_mozprofilevRG6bv"
+1709761027212	geckodriver	INFO	Listening on 127.0.0.1:50482
+1709761028351	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/2cpdbm7s5vv_h3qxrngnq1jc0000gn/T/rust_mozprofileyjkJJs"
+1709761269734	geckodriver	INFO	Listening on 127.0.0.1:50530
+1709761270754	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/2cpdbm7s5vv_h3qxrngnq1jc0000gn/T/rust_mozprofileCbPAID"
+1709761299498	geckodriver	INFO	Listening on 127.0.0.1:50545
+1709761299639	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/2cpdbm7s5vv_h3qxrngnq1jc0000gn/T/rust_mozprofilelj217d"
+1709761769412	geckodriver	INFO	Listening on 127.0.0.1:50652
+1709761769868	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/2cpdbm7s5vv_h3qxrngnq1jc0000gn/T/rust_mozprofile2zjFCB"
+1709761905803	geckodriver	INFO	Listening on 127.0.0.1:50674
+1709761906832	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/2cpdbm7s5vv_h3qxrngnq1jc0000gn/T/rust_mozprofileA9fxD7"
+1709762077819	geckodriver	INFO	Listening on 127.0.0.1:50691
+1709762078932	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/2cpdbm7s5vv_h3qxrngnq1jc0000gn/T/rust_mozprofileJMlsR1"

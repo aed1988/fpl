@@ -26,9 +26,9 @@ Created basic plotting function to show how points vary by position.  Function i
 
 
 #### Known endpoints (http://fantasy.premierleague.com/api)
-1.  /bootstrap-static
+1.  /bootstrap-static/
   - Includes data about events, current points, players (actual & fantasy), teams and game settings.
-2.  /fixtures
+2.  /fixtures/
   - Response is fixtures & results.  Can query individual weeks "?event=1".
 3.  /element-summary/{element_id}/
   - An element_id is required.  In this instance, element_id refers to a premier league player and responds with their fixtures & history (present and past seasons).

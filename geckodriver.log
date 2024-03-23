@@ -1,0 +1,40 @@
+1698490239280	geckodriver	INFO	Listening on 127.0.0.1:50754
+1698490311337	geckodriver	INFO	Listening on 127.0.0.1:51068
+1698490311876	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/q4/2cpdbm7s5vv_h3qxrngnq1jc0000gn/T/rust_mozprofile3JBOwX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698490312877	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698490313836	Marionette	INFO	Listening on port 51084
+WebDriver BiDi listening on ws://127.0.0.1:51069
+Read port: 51084
+1698490314148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51069/devtools/browser/75f8af4f-5215-43af-8e2c-6deb25e41f60
+JavaScript warning: https://pagead2.googlesyndication.com/bg/mSNSQAl__hw8z5PwJ1hA32amL2zkBniEArBt9BN1XWc.js line 2 > eval line 4321 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/mSNSQAl__hw8z5PwJ1hA32amL2zkBniEArBt9BN1XWc.js line 2 > eval line 6468 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/mSNSQAl__hw8z5PwJ1hA32amL2zkBniEArBt9BN1XWc.js line 2 > eval line 3018 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/mSNSQAl__hw8z5PwJ1hA32amL2zkBniEArBt9BN1XWc.js line 2 > eval line 7280 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/mSNSQAl__hw8z5PwJ1hA32amL2zkBniEArBt9BN1XWc.js line 2 > eval line 6857 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/mSNSQAl__hw8z5PwJ1hA32amL2zkBniEArBt9BN1XWc.js line 2 > eval line 2713 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1698490466459	Marionette	INFO	Stopped listening on port 51084
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1698490958109	geckodriver	INFO	Listening on 127.0.0.1:52091
+1698490958862	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/2cpdbm7s5vv_h3qxrngnq1jc0000gn/T/rust_mozprofile9sue6v"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698490962109	Marionette	INFO	Marionette enabled
+1698490962868	Marionette	INFO	Listening on port 52103
+Read port: 52103
+1698490963432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698491703971	geckodriver	INFO	Listening on 127.0.0.1:52272
+1698491705001	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/2cpdbm7s5vv_h3qxrngnq1jc0000gn/T/rust_mozprofileWmPH8R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698491706893	Marionette	INFO	Marionette enabled
+1698491709031	Marionette	INFO	Listening on port 52279
+Read port: 52279
+1698491709472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698582618534	Marionette	INFO	Stopped listening on port 52279
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]

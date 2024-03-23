@@ -1,12 +1,12 @@
 import requests
-from dotenv import dotenv_values
+from definitions import FPL_EMAIL, FPL_PASSWORD
 
 
 
-def get_json_from_fpl_api(url, login=True, headers=None, querystring=None, cookies=None):
+def get_json_from_fpl_api(url, login=False, headers=None, querystring=None, cookies=None):
   payload={
-    "login": dotenv_values('.env.secret')['FPL_EMAIL'], 
-    "password": dotenv_values('.env.secret')['FPL_PASSWORD'], 
+    "login": FPL_EMAIL, 
+    "password": FPL_PASSWORD, 
     "app":"plfpl-web", 
     "redirect_uri":"https://fantasy.premierleague.com/"
   }
